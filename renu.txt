@@ -1,1 +1,1 @@
-list,tuple,dict
+list,tuple,dict,set,numpyarray
